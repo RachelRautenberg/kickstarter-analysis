@@ -20,7 +20,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
---### Two conclusions that can be drawn from reviewing outcomes verse launch date are that launches in early summer, May and June, are result in more successful outcomes than other times of year and end of year is the worst time to launch. 
+### Two conclusions that can be drawn from reviewing outcomes verse launch date are that launches in early summer, May and June, are result in more successful outcomes than other times of year and end of year is the worst time to launch. 
 
 - What can you conclude about the Outcomes based on Goals?
 ### There is a very clear limitation for a succesful campaign when a campaign goal hits $25,000, beyond that, the probability of success rises for campaigns with goals between $35,000 and $45,000 before significantly falling off again.  The most significant chance for success comes with lower goal amounts.
