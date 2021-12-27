@@ -17,8 +17,6 @@ Performing analysis on Kickstarter data to uncover trends
 
 #### It is very important to be mindful when setting the goal for the campaign. We see that the lower the goal, the higher the percentage of success is for campaigns. Interestingly, though, there is also a sweet spot between approximately $35,000 and $45,000 where there is a higher percentage of successful campaigns than failures. When setting campaign goals, I recommend staying below $5,000 or very intentionally around $40,000
 
-### Challenges and Difficulties Encountered
-
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
